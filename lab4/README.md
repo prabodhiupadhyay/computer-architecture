@@ -1,5 +1,4 @@
-# Lab Report:
-VHDL Code for Combinational Circuits (MUX and DEMUX)
+# Lab Report: VHDL Code for Combinational Circuits (MUX and DEMUX)
 
 ## Aim
 

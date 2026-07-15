@@ -74,7 +74,7 @@ The T Flip-Flop has only one input called **Toggle (T)**. When T is **0**, the o
 
 ## 3. Simulation Result
 
-The simulation results verified the correct operation of all four flip-flops. The SR Flip-Flop performed set and reset operations correctly while demonstrating its invalid condition when both inputs were high. The D Flip-Flop successfully stored the input data at each active clock edge. The JK Flip-Flop correctly executed hold, set, reset, and toggle operations, while the T Flip-Flop toggled its output whenever the toggle input was active. The obtained simulation waveforms matched the expected truth tables, confirming the correct implementation of the flip-flops.
+![Simulation Result](Flipflop.png)
 
 ---
 

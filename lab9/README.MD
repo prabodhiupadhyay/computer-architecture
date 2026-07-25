@@ -36,16 +36,6 @@ The steps of Booth's algorithm are:
 
 ---
 
-## 3. Simulation/Program Result
-
-The Booth algorithm program was executed successfully. The program correctly multiplied signed binary numbers using Booth's multiplication technique. The generated output matched the expected multiplication result, confirming the correct implementation of the algorithm.
-
-### Program Output
-
-![Program Output](Booth.png)
-
----
-
 ## 4. Applications
 
 - Computer processors

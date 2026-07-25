@@ -1,6 +1,6 @@
 # VHDL Code for Sequential Circuits: Counters
 
-## 1. Objective
+## Objective
 
 - To study the concept of sequential counters.
 - To understand the operation of counters.
@@ -10,7 +10,7 @@
 
 ---
 
-## 2. Theory
+## Theory
 
 A **counter** is a sequential digital circuit that counts the number of clock pulses applied to its input. It is constructed using flip-flops and logic gates. Since a counter stores its previous state, it is classified as a **sequential circuit**.
 
@@ -61,7 +61,7 @@ An **Asynchronous Counter**, also known as a ripple counter, is a counter in whi
 
 ---
 
-## 4. Applications
+## Applications
 
 - Digital clocks
 - Frequency dividers
@@ -76,12 +76,12 @@ An **Asynchronous Counter**, also known as a ripple counter, is a counter in whi
 
 ---
 
-## 5. Discussion
+## Discussion
 
 This experiment provided practical knowledge of designing and simulating counters using VHDL. The operation of Up, Up/Down, Synchronous, and Asynchronous counters was studied and verified through simulation. The obtained waveforms matched the expected counting sequences, confirming the correct behavior of the circuits. Counters are essential sequential circuits used for counting, timing, frequency division, and control operations in digital systems. VHDL simulation also helps verify circuit functionality before hardware implementation.
 
 ---
 
-## 6. Conclusion
+## Conclusion
 
 The experiment successfully demonstrated the design and simulation of sequential counters using VHDL. The behavior of Up, Up/Down, Synchronous, and Asynchronous counters was studied and verified through simulation. The results matched the expected counting sequences, confirming the correct operation of the circuits. This experiment improved the understanding of sequential logic design and the practical implementation of counters using VHDL.

@@ -1,6 +1,6 @@
 # Program to Implement the Booth Algorithm
 
-## 1. Objective
+## Objective
 
 - To understand the Booth multiplication algorithm.
 - To implement the Booth algorithm using a programming language.
@@ -10,7 +10,7 @@
 
 ---
 
-## 2. Theory
+## Theory
 
 **Booth's Algorithm** is an efficient algorithm used for multiplying signed binary numbers represented in **2's complement form**. It reduces the number of addition and subtraction operations required during multiplication, making it suitable for computer processors and digital systems.
 
@@ -36,7 +36,7 @@ The steps of Booth's algorithm are:
 
 ---
 
-## 4. Applications
+## Applications
 
 - Computer processors
 - Arithmetic Logic Unit (ALU)
@@ -51,12 +51,12 @@ The steps of Booth's algorithm are:
 
 ---
 
-## 5. Discussion
+## Discussion
 
 This experiment provided practical knowledge of implementing Booth's Algorithm for signed binary multiplication. The algorithm efficiently reduced the number of addition and subtraction operations by examining adjacent bits of the multiplier. The program execution produced the expected output, verifying the correctness of the implementation. Booth's Algorithm is widely used in modern processors because it provides faster multiplication of signed binary numbers and improves computational efficiency.
 
 ---
 
-## 6. Conclusion
+## Conclusion
 
 The program for implementing Booth's Algorithm was successfully executed and verified. The algorithm correctly performed multiplication of signed binary numbers using 2's complement representation. The obtained results matched the expected output, confirming the correctness of the implementation. This experiment improved the understanding of binary multiplication techniques and demonstrated the importance of Booth's Algorithm in computer architecture and digital system design.

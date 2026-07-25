@@ -66,10 +66,7 @@ An **Asynchronous Counter**, also known as a ripple counter, is a counter in whi
 The simulation results verified the correct operation of the designed counters. The Up Counter counted correctly in ascending order with each clock pulse. The Up/Down Counter successfully changed its counting direction according to the control signal. The simulation waveforms matched the expected counting sequences, confirming the correct implementation of the counters using VHDL.
 
 ### Simulation Waveform
-
 ![Simulation Waveform](Counter.png)
-
----
 
 ## 4. Applications
 

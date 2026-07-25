@@ -17,15 +17,9 @@ The algorithm uses the **Accumulator (A)**, **Dividend (Q)**, and **Divisor (M)*
 
 ---
 
-## 3. Simulation/Program Result
+## 3. Simulation Result
 
 The program was executed successfully, and the Non-Restoring Division Algorithm correctly calculated the quotient and remainder. The obtained output matched the expected division result, confirming the correctness of the implementation.
-
-### Program Output
-
-![Program Output](NonRestoringDivision.png)
-
----
 
 ## 4. Applications
 
